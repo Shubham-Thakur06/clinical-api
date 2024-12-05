@@ -1,0 +1,8 @@
+# Node modules
+node_modules
+
+# Dummy data files
+*.json
+
+# dotenv file
+.env
