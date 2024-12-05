@@ -3,6 +3,8 @@ node_modules
 
 # Dummy data files
 *.json
+!package.json
+!package-lock.json
 
 # dotenv file
 .env
